@@ -1,0 +1,22 @@
+{
+  "name": "2106-1",
+  "version": "0.0.1",
+  "description": "Express server for Zoom Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryroseman/2106-1.git"
+  },
+  "author": "Henry Roseman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryroseman/2106-1/issues"
+  },
+  "homepage": "https://github.com/henryroseman/2106-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
